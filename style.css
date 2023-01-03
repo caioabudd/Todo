@@ -129,8 +129,9 @@ body {
 .done {
     background-color: rgb(18, 219, 62);
     color: white;
-    width: 250px;
-    height: 55px;
-        
+    width: 450px;
+    height: 105px;
+    position: relative;
+    left: 22px;
 
 }
